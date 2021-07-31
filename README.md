@@ -42,7 +42,7 @@ Current advances in next-generation sequencing (NGS) technologies have led to th
 :dancer: :dancer: :dancer: :dancer:
 &nbsp;
 
-**I love:** :guitar: :musical_keyboard: volleyball :volleyball: :headphones: :microphone: :musical_note:  :horse_racing: :airplane: -- cooking, baking, singing, watching movies, hanging out with friends ...
+**I love:** :airplane: :book: :guitar: :musical_keyboard: volleyball :volleyball: :headphones: :microphone: :musical_note:  :horse_racing: -- cooking, baking, singing, watching movies, hanging out with friends ...
 
 > I am not a fun of sea food but I want to try :octopus: :wink:
 	
