@@ -1,7 +1,7 @@
 # 👋 Hi & welcome to my github repository
 [<img align ="right" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/header.jpg" width="300" height="300"/>](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/header.jpg)
 ## Preamble
-- 👩‍🔬 I’m interested in developing computational tools and applying statistical methods, and cutting-edge technologies (including machine learning and artificial intelligence) for integrating, managing and analyzing high-dimensional genomics data to unravel true associations and molecular underpinnings of complex and rare diseases
+- 👩‍🔬 I’m interested in developing computational tools and applying statistical methods, and cutting-edge technologies (including machine learning and artificial intelligence) for integrating, managing and analyzing high-dimensional multiomics data to unravel true associations and molecular underpinnings of complex and rare diseases
 - 🌱 I’m currently learning the application of machine learning (ML) and artificial intelligence (AI) in biomedical research
 - 💞️ I am excited by big, complex and messy data that ends up into beautiful and meaningful visualizations that help us derive actionable insights and new hypotheses for the acceleration of translational and precision medicine 💃
 
