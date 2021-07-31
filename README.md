@@ -34,7 +34,7 @@ Current advances in next-generation sequencing (NGS) technologies have led to th
 
 ## Please see next section for some code extracts/examples 
 
----
+
 ##### Before I bolt out of here :paw_prints: :paw_prints: :paw_prints:  `some fun facts` :point_down:
 
 ## Fun facts 
