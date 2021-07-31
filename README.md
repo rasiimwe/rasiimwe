@@ -28,19 +28,14 @@ I am currently placed in the awesome Kobor Lab where I conduct statistical and b
 
 &nbsp;
 	
----
+
 ## Why ML and AI 
 Current advances in next-generation sequencing (NGS) technologies have led to the generation of vast amounts of sequencing data that has augmented our understanding of human variation and disease. However, the production of these large and high dimensional datasets, coupled with confounding factors, and the heterogeneity of features under investigation, presents significant challenges in unravelling true associations and the molecular underpinnings of disease. Leveraging the powerful opportunities presented by machine learning and artificial intelligence in analyzing large and complex high-dimensional multiomics data supports the elucidation of mutational landscapes and molecular correlations of complex and rare diseases at higher precisions.
 
+## Please see next section for some code extracts/examples 
 
-
+---
 ##### Before I bolt out of here :paw_prints: :paw_prints: :paw_prints:  `some fun facts` :point_down:
-
-
-<!-- [![R: rotating 3D globes](https://github.com/rasiimwe/tester/blob/master/Plugins/viz3.jpg)](https://www.youtube.com/watch?v=VsyLrCBs0wQ "R: rotating 3D globes")  -->
-<!-- [![Basketball_epic_fakes_plays](https://github.com/rasiimwe/tester/blob/master/Plugins/basket.jpg)](https://www.youtube.com/watch?v=ZKYLaHoKIJw&t=1s  "Basketball_epic_fakes_plays") -->
-<!-- [![programmer](https://github.com/rasiimwe/tester/blob/master/Plugins/progrmr.jpg)](https://www.youtube.com/watch?v=_Nua3Cjdik0) -->
-<!-- [![hitler uses git](https://news-cdn.softpedia.com/images/news2/Hitler-Furious-About-GIT-and-Linus-Is-the-Funniest-Thing-You-ll-See-Today-429546-2.jpg)](https://www.youtube.com/watch?v=CDeG4S-mJts) -->
 
 ## Fun facts 
 &nbsp;
