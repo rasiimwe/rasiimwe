@@ -51,9 +51,9 @@ My friends call me "smiling machine" :blush: :blush:
 
 ### Life dares
 
-- [x] Mountain climbing
+- [ ] Mountain climbing
 - [ ] Horse riding
-- [ ] Eating strange or weird foods :stuck_out_tongue_winking_eye:
+- [x] Eating strange or weird foods :stuck_out_tongue_winking_eye:
 - [ ] Riding a motorbike
 
 [<img align ="right" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/france-clipart-au-revoir-8.jpg" width="100" height="100">](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/france-clipart-au-revoir-8.jpg)
