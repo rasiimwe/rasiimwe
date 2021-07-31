@@ -5,14 +5,14 @@
 - 🌱 I’m currently learning the application of machine learning (ML) and artificial intelligence (AI) in biomedical research
 - 💞️ I am excited by big, complex and messy data that ends up into beautiful and meaningful visualizations that help us derive actionable insights and new hypotheses for the acceleration of translational and precision medicine 💃
 
--   [1 Mini-Background](#mini-background)
+-   [1 Background](#background)
 -   [2 Research](#research)
 -   [3 Why ML and AI](#Why-ML-and-AI)
 -   [4 Fun Facts](#fun-facts)
     -   [4.1 Life Dares](#life-dares)	
 -   [5 Follow Me](#you-can-follow-me-on)	
 
-## Mini-Background:
+## Background:
 
 I come from an IT background that heavily revolved around working with computer networks, information systems, programming and working with databases. I have a Bachelor of Science degree in Information Technology and a Master's degree in Information Technology; however, I still seemed to be inclined to Biology!!!. My love for Biology drove me into Bioinformatics and I am loving it!! :smile: I currently hold a Master of Science degree in Bioinformatics and working my way towards my PhD in machine learning and artificial intelligence for biomedical research.
 
