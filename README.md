@@ -14,7 +14,7 @@
 
 ## Background:
 
-I come from an IT background that heavily revolved around working with computer networks, information systems, computer programming, Linux and Windows systems administration and working with databases. I have a Bachelor of Science degree in Information Technology and a Master's degree in Information Technology; however, I still seemed to be inclined to Biology!!!. My love for Biology drove me into Bioinformatics, a powerful interdisciplinary field that develops computational methods and software tools for understanding big and complex biological data, and I am loving it!! :test: I currently hold a Master of Science degree in Bioinformatics and working my way towards my PhD in machine learning and artificial intelligence for biomedical research.
+I come from an IT background that heavily revolved around working with computer networks, information systems, computer programming, Linux and Windows systems administration and working with databases. I have a Bachelor of Science degree in Information Technology and a Master's degree in Information Technology; however, I still seemed to be inclined to Biology!!!. My love for Biology drove me into Bioinformatics, a powerful interdisciplinary field that develops computational methods and software tools for understanding big and complex biological data, and I am loving it!! `r emo::ji("test")` I currently hold a Master of Science degree in Bioinformatics and working my way towards my PhD in machine learning and artificial intelligence for biomedical research.
 
 ## Research
 [<img align ="left" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/gif1.gif" width="300" height="300"/>](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/gif1.gif)
