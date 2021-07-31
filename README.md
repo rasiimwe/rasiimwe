@@ -12,7 +12,7 @@
     -   [4.1 Life Dares](#life-dares)	
 -   [5 Follow Me](#you-can-follow-me-on)	
 
-## About Me:
+## Mini-Background:
 
 I come from an IT background that heavily revolved around working with computer networks, information systems, programming and working with databases. I have a Bachelor of Science degree in Information Technology and a Master's degree in Information Technology; however, I still seemed to be inclined to Biology!!!. My love for Biology drove me into Bioinformatics and I am loving it!! :smile: I currently hold a Master of Science degree in Bioinformatics and working my way towards my PhD in machine learning and artificial intelligence for biomedical research.
 
