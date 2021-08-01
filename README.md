@@ -44,7 +44,7 @@ Current advances in next-generation sequencing (NGS) technologies have led to th
 
 **I love:** :airplane: :book: :guitar: :musical_keyboard: volleyball :volleyball: :headphones: :microphone: :musical_note: -- cooking, baking, singing, hanging out with friends ...
 
-> I am not a fun of sea food but I want to try :octopus: :wink:
+> Not a fun of sea food but I want to try :octopus: :wink:
 	
 My friends call me "smiling machine" :blush: :blush: 
 
