@@ -32,7 +32,7 @@ I am currently placed in the awesome Kobor Lab where I conduct statistical and b
 ## Why ML and AI 
 Current advances in next-generation sequencing (NGS) technologies have led to the generation of vast amounts of sequencing data that has augmented our understanding of human variation and disease. However, the production of these large and high dimensional datasets, coupled with confounding factors, and the heterogeneity of features under investigation, presents significant challenges in unravelling true associations and the molecular underpinnings of disease. Leveraging the powerful opportunities presented by machine learning and artificial intelligence in analyzing large and complex high-dimensional multiomics data supports the elucidation of mutational landscapes and molecular correlations of complex and rare diseases at higher precisions.
 
-## Please see the next section for some code extracts/examples
+## Please see the next section (pinned repositories) for some [code extracts/examples](https://github.com/rasiimwe/Code_Examples)
 
 
 ##### Before I leave :paw_prints: :paw_prints: :paw_prints:  `some fun facts` :point_down:
