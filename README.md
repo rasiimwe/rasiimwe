@@ -35,33 +35,6 @@ Current advances in next-generation sequencing (NGS) technologies have led to th
 ## Please see the next section (pinned repositories) for some [code extracts/examples](https://github.com/rasiimwe/Code_Examples)
 
 
-##### Before I leave :paw_prints: :paw_prints: :paw_prints:  `some fun facts` :point_down:
-
-## Fun facts 
-&nbsp;
-:dancer: :dancer: :dancer: :dancer:
-&nbsp;
-
-**I love:** :airplane: :book: :guitar: :musical_keyboard: volleyball :volleyball: :headphones: :microphone: :musical_note: -- cooking, baking, singing, hanging out with friends ...
-
-> Not a fun of sea food but I want to try :octopus: :wink:
-	
-My friends call me "smiling machine" :blush: :blush: 
-
-
-### Life dares
-
-- [ ] Mountain climbing
-- [ ] Horse riding
-- [x] Eating strange or weird foods :stuck_out_tongue_winking_eye:
-- [ ] Riding a motorbike
-
-[<img align ="right" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/france-clipart-au-revoir-8.jpg" width="100" height="100">](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/france-clipart-au-revoir-8.jpg)
-
-&nbsp;
-
-***
-
 ### _**Follow me on:**_ 
 
 [<img src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/github.png" width="30" height="32">](https://github.com/rasiimwe)
