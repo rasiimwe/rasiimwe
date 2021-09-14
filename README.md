@@ -7,9 +7,7 @@
 -   [1 Background](#background)
 -   [2 Research](#research)
 -   [3 Why ML and AI](#Why-ML-and-AI)
--   [4 Fun Facts](#fun-facts)
-    -   [4.1 Life Dares](#life-dares)	
--   [5 Follow Me](#you-can-follow-me-on)	
+-   [4 Follow Me](#you-can-follow-me-on)	
 
 ## Background:
 I come from an IT background that heavily revolved around working with computer networks, information systems, computer programming, Linux and Windows systems administration and working with databases. I have a Bachelor of Science degree in Information Technology and a Master's degree in Information Technology. My love for Biology drove me into Bioinformatics, a powerful interdisciplinary field that develops computational methods and software tools for understanding big and complex biological data. I currently hold a data-science driven Master of Science degree in Bioinformatics and working my way towards gaining more experience in machine learning and artificial intelligence.
