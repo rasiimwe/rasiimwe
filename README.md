@@ -30,8 +30,9 @@ I am currently placed in the awesome Kobor Lab where I conduct statistical and b
 Current advances in technologies such as next-generation sequencing (NGS), have led to the generation of vast amounts of data that has augmented our understanding of human variation, disease and data patterns. However, the production of these large and high dimensional datasets, coupled with confounding factors, and the heterogeneity of features under investigation, presents significant challenges in unravelling true associations and drivers of outcomes and/disease. Leveraging the powerful opportunities presented by data science in analyzing large and complex high-dimensional multiomics data supports the elucidation of causative mechanisms and correlations of complex events at higher precisions.
 
 ## Example Projects
-### Please visit my [portfolio](https://rasiimwe.github.io/portfolio/) 
-#### Also exemplified in the next section (pinned repositories) are for some [code extracts/examples](https://github.com/rasiimwe/Code_Examples)
+### Please visit my [portfolio](https://rasiimwe.github.io/portfolio/) for some example projects
+#### Also exemplified in the next section (pinned repositories) are for some [code extracts/examples](https://github.com/rasiimwe/Code_Examples).
+**Please note that since some of these projects are works in progress or an not published yet, only abstract snippets have been provided**
 
 
 #### _**Follow me on:**_ 
