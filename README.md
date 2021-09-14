@@ -7,7 +7,7 @@
 -   [1 Background](#background)
 -   [2 Research](#research)
 -   [3 Why ML and AI](#Why-ML-and-AI)
--   [4 Please see the next section](#Please-see-the-next-section)	
+-   [4 Example Projects](#Example-Projects)	
 
 ## Background:
 I come from an IT background that heavily revolved around working with computer networks, information systems, computer programming, Linux and Windows systems administration and working with databases. I have a Bachelor of Science degree in Information Technology and a Master's degree in Information Technology. My love for Biology drove me into Bioinformatics, a powerful interdisciplinary field that develops computational methods and software tools for understanding big and complex biological data. I currently hold a data-science driven Master of Science degree in Bioinformatics and working my way towards gaining more experience in machine learning and artificial intelligence.
@@ -29,10 +29,12 @@ I am currently placed in the awesome Kobor Lab where I conduct statistical and b
 ## Why ML and AI 
 Current advances in technologies such as next-generation sequencing (NGS), have led to the generation of vast amounts of data that has augmented our understanding of human variation, disease and data patterns. However, the production of these large and high dimensional datasets, coupled with confounding factors, and the heterogeneity of features under investigation, presents significant challenges in unravelling true associations and drivers of outcomes and/disease. Leveraging the powerful opportunities presented by data science in analyzing large and complex high-dimensional multiomics data supports the elucidation of causative mechanisms and correlations of complex events at higher precisions.
 
-## Please see the next section (pinned repositories) for some [code extracts/examples](https://github.com/rasiimwe/Code_Examples)
+## Example Projects
+### Please visit my [portfolio](https://rasiimwe.github.io/portfolio/) 
+#### Also exemplified in the next section (pinned repositories) are for some [code extracts/examples](https://github.com/rasiimwe/Code_Examples)
 
 
-### _**Follow me on:**_ 
+#### _**Follow me on:**_ 
 
 [<img src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/github.png" width="30" height="32">](https://github.com/rasiimwe)
 [<img src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/Twitter.jpg">](https://twitter.com/rasiimwe)
