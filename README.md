@@ -22,7 +22,7 @@ biomarker in patient treatment.
 
 Prior to joining the Shah Lab, I conducted my IT master's thesis research in the area of Web Application security, where I developed an algorithm for securing Web Applications from SQL injection attacks.
 &nbsp;
-[<src="https://github.com/rasiimwe/Code_Examples/blob/main/SQL_Injection.png" width="300" height="300"/>](https://github.com/rasiimwe/Code_Examples/blob/main/SQL_Injection.png)
+[<img src="https://github.com/rasiimwe/Code_Examples/blob/main/SQL_Injection.png" width="300" height="300"/>](https://github.com/rasiimwe/Code_Examples/blob/main/SQL_Injection.png)
 
 
 &nbsp;
