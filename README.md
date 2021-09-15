@@ -1,7 +1,7 @@
 # 👋 Hi & welcome to my github repository
 [<img align ="right" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/header.jpg" width="300" height="300"/>](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/header.jpg)
 ## Preamble
-- 👩‍🔬 I am a Bioinformatician and Data Scientist interested in developing computational tools and applying statistical methods, and cutting-edge technologies (including machine learning and artificial intelligence) for integrating, managing, analyzing and visualizing high-dimensional data to unravel true associations, hidden patterns, and unknown correlations in big data.
+- 👩‍🔬 I am a Data Scientist and Bioinformatician interested in developing computational tools and applying statistical methods, and cutting-edge technologies (including machine learning and artificial intelligence) for integrating, managing, analyzing and visualizing high-dimensional data to unravel true associations, hidden patterns, and unknown correlations in big data.
 - 💞️ I am excited by big, complex and messy data that ends up into beautiful and meaningful visualizations that help us derive actionable insights and new hypotheses for informed decisions and to support the translation of institutional/business requirements into substantial deliverables. 
 
 -   [1 Background](#background)
@@ -10,7 +10,7 @@
 -   [4 Example Projects](#Example-Projects)	
 
 ## Background:
-I come from an IT background that heavily revolved around working with computer networks, information systems, computer programming, Linux and Windows systems administration and working with databases. I have a Bachelor of Science degree in Information Technology and a Master's degree in Information Technology. My love for Biology drove me into Bioinformatics, a powerful interdisciplinary field that develops computational methods and software tools for understanding big and complex biological data. I currently hold a data-science driven Master of Science degree in Bioinformatics and working my way towards gaining more experience in machine learning and artificial intelligence.
+I come from an IT background that heavily revolved around computer programming (C++, Java, Python), database management systems (MySQL and PostgreSQL), discrete and computational mathematics, statistics, data and computer networks (CCNA/Cisco instructor as well), network socket programming in Java, information systems (with PHP and MySQL), Web services, information and network security, software engineering, Linux and Windows systems administration, business intelligence and data warehousing and project planning and management. I have a Bachelor of Science degree in Information Technology and a Master's degree in Information Technology. My love for Biology drove me into Bioinformatics, a powerful interdisciplinary field that develops computational methods and software tools for understanding big and complex biological data. I currently hold a data-science driven Master of Science degree in Bioinformatics and working my way towards gaining more experience in machine learning and artificial intelligence 💪.
 
 ## Research
 [<img align ="left" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/gif1.gif" width="300" height="300"/>](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/gif1.gif)
@@ -20,14 +20,18 @@ biomarker in patient treatment.
 &nbsp;
 &nbsp;
 
+Prior to joining the Shah Lab, I conducted my IT master's thesis research in the area of Web Application security, where I developed an algorithm for securing Web Applications from SQL injection attacks.
+&nbsp;
+&nbsp;
+
 I am currently placed in the awesome Kobor Lab where I conduct statistical and bioinformatics analyses of high-throughput epigenomics and genotyping data, to facilitate the interpretation of associations between molecular data, the environment, and disease.
 
 
 &nbsp;
 	
 
-## Why Machine Learning and Artificial Intelligence 
-Current advances in technologies such as next-generation sequencing (NGS), have led to the generation of vast amounts of data that has augmented our understanding of human variation, disease, patterns and making inferences from big data in general. However, the production of these large and high dimensional datasets, coupled with confounding factors, and the heterogeneity of features under investigation, presents significant challenges in unravelling true associations and drivers of outcomes. Leveraging the powerful opportunities presented by data science in analyzing large and complex high-dimensional data supports the elucidation of causative mechanisms and correlations of complex events at higher precisions.
+## Why Machine Learning (ML) and Artificial Intelligence (AI)?
+Current advances in technologies such as next-generation sequencing (NGS), have led to the generation of vast amounts of data that has augmented our understanding of human variation, disease, patterns and making inferences from big data in general. However, the production of these large and high dimensional datasets, coupled with confounding factors, and the heterogeneity of features under investigation, presents significant challenges in unravelling true associations and drivers of outcomes. Leveraging the powerful opportunities presented by data science (like ML & AI) in analyzing large and complex high-dimensional data supports the elucidation of causative mechanisms and correlations of complex events at higher precisions.
 
 ## Example Projects
 ### Please visit my [portfolio](https://rasiimwe.github.io/portfolio/) for some example projects
