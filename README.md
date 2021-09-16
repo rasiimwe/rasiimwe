@@ -23,7 +23,7 @@ biomarker in patient treatment.
 Prior to joining the Shah Lab, I conducted my IT master's thesis research in the area of Web Application security, where I developed an algorithm for securing Web Applications from SQL injection attacks.
 
 
-[<img align ="middle" src="https://github.com/rasiimwe/Code_Examples/blob/main/SQL_Injection.png" width="350" height="350"/>](https://github.com/rasiimwe/Code_Examples/blob/main/SQL_Injection.png)
+[<img class="center src="https://github.com/rasiimwe/Code_Examples/blob/main/SQL_Injection.png" width="350" height="350"/>](https://github.com/rasiimwe/Code_Examples/blob/main/SQL_Injection.png)
 
 
 I am currently placed in the awesome Kobor Lab where I conduct statistical and bioinformatics analyses of high-throughput epigenomics and genotyping data, to facilitate the interpretation of associations between molecular data, the environment, and disease.
