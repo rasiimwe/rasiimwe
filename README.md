@@ -37,7 +37,7 @@ I am currently placed in the awesome Kobor Lab where I conduct statistical and b
 Current advances in technologies such as next-generation sequencing (NGS), have led to the generation of vast amounts of data that has augmented our understanding of human variation, disease, patterns and making inferences from big data in general. However, the production of these large and high dimensional datasets, coupled with confounding factors, and the heterogeneity of features under investigation, presents significant challenges in unravelling true associations and drivers of outcomes. Leveraging the powerful opportunities presented by data science (like ML & AI) in analyzing large and complex high-dimensional data supports the elucidation of causative mechanisms and correlations of complex events at higher precisions.
 
 ## Example Projects
-### Please visit my [portfolio](https://rasiimwe.github.io/portfolio/) for some example projects
+### Please visit my [portfolio](https://rasiimwe.github.io/research_and_project_portfolio/) for some example projects
 #### Also exemplified in the next section (pinned repositories) are some [code extracts/examples](https://github.com/rasiimwe/Code_Examples).
 _Please note that since some of these projects are works in progress or are not published yet, only abstract snippets have been provided_
 
