@@ -6,7 +6,7 @@
 
 -   [1 Background](#background)
 -   [2 Research](#research)
--   [3 Why ML and AI](#Why-Machine-Learning-(ML)-and-Artificial-Intelligence-(AI)?)
+-   [3 Why ML and AI](#Why-Machine-Learning-(ML)-and-Artificial-Intelligence-(AI))
 -   [4 Example Projects](#Example-Projects)	
 
 ## Background:
