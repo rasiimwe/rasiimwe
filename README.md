@@ -33,7 +33,7 @@ I am currently placed in the awesome Kobor Lab where I conduct statistical and b
 &nbsp;
 	
 
-## Why Machine Learning (ML) and Artificial Intelligence (AI)?
+## Why Machine Learning and Artificial Intelligence?
 Current advances in technologies such as next-generation sequencing (NGS), have led to the generation of vast amounts of data that has augmented our understanding of human variation, disease, patterns and making inferences from big data in general. However, the production of these large and high dimensional datasets, coupled with confounding factors, and the heterogeneity of features under investigation, presents significant challenges in unravelling true associations and drivers of outcomes. Leveraging the powerful opportunities presented by data science (like ML & AI) in analyzing large and complex high-dimensional data supports the elucidation of causative mechanisms and correlations of complex events at higher precisions.
 
 ## Example Projects
