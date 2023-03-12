@@ -1,7 +1,7 @@
 # 👋 Hi & welcome to my github repository
 [<img align ="right" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/header.jpg" width="300" height="300"/>](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/header.jpg)
 ## Preamble
-- 👩‍🔬 I am a Data Scientist and Bioinformatician interested in developing computational tools and applying statistical methods, and cutting-edge technologies (including machine learning and artificial intelligence) for integrating, managing, analyzing and visualizing high-dimensional data to unravel true associations, hidden patterns, and unknown correlations in big data.
+- 👩‍🔬 I am a Bioinformatician and Data Scientist interested in developing computational tools and applying statistical methods, and cutting-edge technologies (including machine learning and artificial intelligence) for integrating, managing, analyzing and visualizing high-dimensional data to unravel true associations, hidden patterns, and unknown correlations in big data.
 - 💞️ I am excited by big, complex and messy data that ends up into beautiful and meaningful visualizations that help us derive actionable insights and new hypotheses for informed decisions and to support the translation of institutional/business requirements into substantial deliverables. 
 
 -   [1 Background](#background)
