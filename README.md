@@ -1,4 +1,4 @@
-# 👋 Hi & welcome to my github repository
+# 👋 Hi & welcome to my GitHub repository
 [<img align ="right" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/header.jpg" width="300" height="300"/>](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/header.jpg)
 ## Preamble
 - 👩‍🔬 I am a Bioinformatician and Data Scientist interested in developing computational tools and applying statistical methods, and cutting-edge technologies (including machine learning and artificial intelligence) for integrating, managing, analyzing and visualizing high-dimensional data to unravel true associations, hidden patterns, and unknown correlations in big and high dimensional biological data.
