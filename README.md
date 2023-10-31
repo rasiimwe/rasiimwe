@@ -43,7 +43,7 @@ Current advances in next-generation sequencing (NGS) technologies, have led to t
 (https://github.com/rasiimwe/Code_Examples). --->
 
 #### Exemplified in the next section (pinned repositories) are [code extracts from conducted projects](https://github.com/rasiimwe/Code_Examples).
-_Please note that since some of these projects are works in progress or are not published yet, only abstract snippets have been provided_
+_Please note that since some of these projects are works in progress or not published yet, only abstract snippets have been provided_
 
 More project examples can be found on my [portfolio](https://rasiimwe.github.io/portfolio/)
 
