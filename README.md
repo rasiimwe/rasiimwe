@@ -19,7 +19,7 @@ My [previous research](https://open.library.ubc.ca/soa/cIRcle/collections/ubcthe
 &nbsp;
 &nbsp;
 
-Prior to joining the Shah Lab, I conducted my IT master's thesis research in the area of Web Application security, where I developed an algorithm for securing Web Applications from SQL injection attacks.
+<!---Prior to joining the Shah Lab, I conducted my IT master's thesis research in the area of Web Application security, where I developed an algorithm for securing Web Applications from SQL injection attacks.--->
 
 <!---
 <p align="center">
@@ -28,7 +28,14 @@ Prior to joining the Shah Lab, I conducted my IT master's thesis research in the
 --->
 
 
-I am currently placed in the Kobor Lab where I conduct statistical and bioinformatics analyses of high-throughput epigenomics and genotyping data, to facilitate the interpretation of associations between molecular data, the environment, and disease.
+<!---I am currently placed in the Kobor Lab where I conduct statistical and bioinformatics analyses of high-throughput epigenomics and genotyping data, to facilitate the interpretation of associations between molecular data, the environment, and disease.--->
+
+Prior to joining the Shah Lab, I conducted my IT master's thesis research in the area of Web Application security, where I developed an algorithm for securing Web Applications from SQL injection attacks.
+
+I later joined the Kobor Lab where I conduct statistical and bioinformatics analyses of high-throughput epigenomics and genotyping data, to facilitate the interpretation of associations between molecular data, the environment, and disease. 
+Thereon I joined the Dobin Lab (Cold Spring Harbor Laboratory) where I conducted research to investigate reference bias in the estimation of genome-wide alle-specific expression (ASE) from high throughput RNA-seq data.
+
+I am currently placed in the department of surgery, (Porrett Lab, UAB), where I lead, manage, and contribute to existing projects through performing bioinformatics, statistical, and computational analyses of high-throughput single-cell RNA-seq, CITE-seq and spatial transcriptomics datasets – projects largely conducted to support the elucidation of the immune response to transplanted organs.
 
 
 &nbsp;
